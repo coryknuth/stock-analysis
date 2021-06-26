@@ -1,4 +1,4 @@
-# Stock Analysis Script Analysis
+# Stock Script Analysis
 
   We recently created a stock analysis program for a client that would analyze stock performance over time to find good investment opportunities. We created a version 1.0 of the script which performed as desired, but could have struggled to run through very large datasets in a reasonable amount of time. We set out to create a version 2.0 of the Stock Analysis script which would perform the same function, but more efficiently, so it could be effectively deployed to analyze many more stocks at once. We then analyzed the results here.
   
